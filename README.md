@@ -1,10 +1,10 @@
 # Do_An_CNPM
 --Tên các Thành Viên
-NHÓM 4:    
-CÙ THỊ NGỌC ANH - 25%
-NGUYỄN VĂN ĐẠI - 25%
-LÊ TRƯỜNG LUẬT - 25%
-HOÀNG VIỆT NHẬT - 25%
+Nhóm 4:    
+Cù Thị Ngọc Anh- 25%
+Nguyễn Văn Đại - 25%
+Lê Trường Luật - 25%
+Hoàng Việt Nhật - 25%
 
 
 --Cách để chạy Source Code
